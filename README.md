@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi there👋, I'm Abhiroop Ippagunta</h1>
+<h3 align="center">I'm an AI/ML enthusiast from Shiv Nadar University Chennai</h3>
 
-<!--
-**iabhiroop/iabhiroop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iabhiroop&label=Profile%20views&color=0e75b6&style=flat" alt="iabhiroop" /> </p>
 
-Here are some ideas to get you started:
+- 📚 Currently learning **Python, Machine Learning, Deep Learning and MLOps**
+- 🔭 Currently working on **Deep Learning, Computer Vision and  Natural Language Processing**
+- 👯 Love to collaborate on **Computer vision projects**
+- 📫 You can reach me via **iabhiroop2021@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/abhiroop-ippagunta-359082242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iabhiroop" height="30" width="40" /></a>
+</p>
