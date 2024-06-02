@@ -9,7 +9,7 @@ I specialize in Deep Learning, ML, Computer Vision, NLP, and Data Science, with 
 
 I'm currently on a learning journey to expand my skills in this exciting domain. Exploring the realms of data science and artificial intelligence fascinates me, and I'm eager to apply ML techniques to solve real-world problems.
 
-- 📚 Currently learning **Python, Machine Learning, Deep Learning and MLOps**
+- 📚 Currently learning **MLOps**
 - 🔭 Currently working on **Deep Learning, Computer Vision and  Natural Language Processing**
 - 👯 Love to collaborate on **Computer vision projects**
 - 📫 You can reach me via **iabhiroop2021@gmail.com**
