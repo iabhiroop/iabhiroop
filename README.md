@@ -1,6 +1,12 @@
 <h1 align="center">Hi there👋, I'm Abhiroop Ippagunta</h1>
 <h3 align="center">I'm an AI/ML enthusiast from Shiv Nadar University Chennai</h3>
 
+## 🚀 About Me
+
+I specialize in Deep Learning, ML, Computer Vision, NLP, and Data Science, with a strong command of Python. I enjoy working with frameworks like TensorFlow, PyTorch, and HuggingFace Transformers to create innovative solutions. I've hands-on experience in supervised/unsupervised ML, Deep Learning frameworks like TensorFlow and PyTorch. I've also worked extensively with large language models and Retrieval-Augmented Generation. I've designed web applications using Flask and FastAPI, with expertise in Docker, Restful APIs, Microservices architecture, and Message Brokers like RabbitMQ and Kafka.
+
+I'm currently on a learning journey to expand my skills in this exciting domain. Exploring the realms of data science and artificial intelligence fascinates me, and I'm eager to apply ML techniques to solve real-world problems.
+
 - 📚 Currently learning **Python, Machine Learning, Deep Learning and MLOps**
 - 🔭 Currently working on **Deep Learning, Computer Vision and  Natural Language Processing**
 - 👯 Love to collaborate on **Computer vision projects**
