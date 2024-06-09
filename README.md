@@ -5,8 +5,6 @@
 ## 🚀 About Me
 <img align ="right" alt="coding" width ="400" src="image.png">
 
-I specialize in Deep Learning, ML, Computer Vision, NLP, and Data Science, with a strong command of Python. I enjoy working with frameworks like TensorFlow, PyTorch, and HuggingFace Transformers to create innovative solutions. I've hands-on experience in supervised/unsupervised ML, Deep Learning frameworks like TensorFlow and PyTorch. I've also worked extensively with large language models and Retrieval-Augmented Generation. I've designed web applications using Flask and FastAPI, with expertise in Docker, Restful APIs, Microservices architecture, and Message Brokers like RabbitMQ and Kafka.
-
 I'm currently on a learning journey to expand my skills in this exciting domain. Exploring the realms of data science and artificial intelligence fascinates me, and I'm eager to apply ML techniques to solve real-world problems.
 
 - 📚 Currently learning **MLOps**
